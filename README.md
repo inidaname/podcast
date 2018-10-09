@@ -1,29 +1,57 @@
 # Podcast Collection
+A curated list of awesome dev podcasts around the globe. 
 
-This project is aimed at building a collection of awesome dev podcasts around the globe. This will help in curating a good list of podcast for devs looking to learn through listening to podcast.
+## How to contribute
+Let start 
 
-This is a simple project aimed to help new contributors that are looking to take a try on open source project, also importantly if you know a good podcast please contribute to the list.
+#### First things first
 
-## Getting Started
+Check the [existing list](hassansani.me/podcast). For inspirations
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+#### Next
+If an awesome podcast you know is not already on this list, this is how you can add it
 
-### Prerequisites
+* `fork` this `repo`
+* `clone` it to you local machine
+* open the [data]() file
+* Add yours in the format below
+* Send a `poll request` 🎉
 
-This does not require any installation or prerequisites only that you know what a `JSON` file is.
+```
+{
+    "name": "The Creative Chronicles",
+    "host": "Bright C.",
+    "url": "www.thecreativeschronicles.com",
+    "category": "general, talents",
+    "description": "The Journey Telling the stories of Creatives",
+    "languages": "English",
+    "updates": "weekly",
+    "broadcast": "fridays",
+    "logo": "https://pbs.twimg.com/profile_images/913581805625808/cdio1mQ5.jpg"
+},
+```
+
+**Name**: Name of the podcast,<br/>
+**Host**: Name of the host (_optional_)<br/>
+**URL**: Web address of the podcast<br/>
+**Category**: The podcast focused content (_JavaScript, Web Development, Machine Learning_) make sure you seperate with a **_comma(,)_**, if more than one category.<br/>
+**Description**: Just a few words about the podcast, a copy and paste is a good start<br/>
+**Languages**: Language spoken. (_English, Spanish, French_) make sure you seperate with a **_comma(,)_**, if more than one Language.<br/>
+**Updates**: The frequency of released episodes (_daily, weekly or monthly_).<br/>
+**broadcast**: Day/Date of release.<br/>
+**Logo**: url link of podcast image (_optional_)
+
 
 ## Contributing
 
 Thank you for taking the time to contribute! 👍🎉
-The emphasis on **SIMPLE PROJECT**.
-
-`fork` this repo
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
 * **Hassan Sani** - *Initial work* - [iNidAName](https://github.com/iNidAName)
+* **Ahmad Abdullaziz** - Docs - [dev_amaz](https://github.com/dev_amaz)
 
 See also the list of [contributors](https://github.com/inidaname/podcast/contributors) who participated in this project.
 

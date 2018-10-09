@@ -1,11 +1,35 @@
 [
     {
-        "title": "Creative Chronicles",
+        "name": "Creative Chronicles",
         "host": "Bright C.",
-        "link": "www.thecreativechronicles.com",
+        "url": "www.thecreativechronicles.com",
         "category": "general, talents",
+        "description": "The Journey Telling the stories of Creatives",
         "languages": "English",
         "updates": "weekly",
-        "broadcast": "fridays"
+        "broadcast": "fridays",
+        "logo": "https://pbs.twimg.com/profile_images/913581805625808/cdio1mQ5.jpg"
+    },
+    {
+        "name": "Syntax",
+        "host": "Wes Bos and Scott Tolinski",
+        "url": "www.syntax.fm",
+        "category": "JavaScript, Web Developer, React,",
+        "description": "A Tasty Treats Podcast for Web Developers.",
+        "languages": "English",
+        "updates": "Daily",
+        "broadcast": "Week days",
+        "logo": "https://syntax.fm/static/logo.png"
+    },
+    {
+        "name": "CodeNewbie",
+        "host": "Saron Yitbarek",
+        "url": "www.codenewbie.org/podcast",
+        "category": "Newbie, Talents, Coding,",
+        "description": "Stories from people on their coding journey.",
+        "languages": "English",
+        "updates": "Weekly",
+        "broadcast": "Tuesdays",
+        "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
     }
 ]

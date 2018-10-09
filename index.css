@@ -1,6 +1,108 @@
+@font-face {
+  font-family: "Alfa Slab One";
+  src: url("./assets/fonts/AlfaSlabOne-Regular.ttf");
+}
+@font-face {
+  font-family: "Source Serif Pro";
+  src: url("./assets/fonts/SourceSerifPro-Regular.ttf");
+}
 body {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
   display: flex;
   flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  transition: margin-left 0.5s;
+  padding: 20px;
+}
+
+.sideBar {
+  background-color: #b8b1b1;
+  width: 0;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  transition: 0.5s;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+  position: fixed;
+  box-shadow: 0px 2px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.sideBar h3 {
+  font-family: "Alfa Slab One", fantasy;
+  text-shadow: 4px 6px 3px rgba(0, 0, 0, 0.2);
+  cursor: default;
+  font-size: 31px;
+  transition: 0.3s;
+}
+.sideBar h3 span {
+  color: #fff;
+}
+.sideBar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+.sideBar > ul {
+  display: flex;
+  position: relative;
+  z-index: 1;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+  padding: 1px;
+  box-sizing: border-box;
+  font-family: "Source Serif Pro", serif;
+  font-size: 21px;
+  font-variant: small-caps;
+  height: 100%;
+  letter-spacing: 3px;
+}
+.sideBar > ul li {
+  margin: 12px;
+  z-index: 1;
+  padding: 10px 0;
+  text-align: right;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: space-around;
+  opacity: 1;
+  transition: 0.9s;
+}
+.sideBar > ul li ul {
+  padding: 5px;
+  z-index: 1;
+  position: relative;
+  margin: 5px;
+  font-size: 12px;
+  height: 0;
+  opacity: 0;
+  transition: 0.9s;
+}
+.sideBar > ul li ul li {
+  padding: 2px;
+  margin: 2px;
+  position: relative;
+}
+
+.hide {
+  display: none !important;
+  transition: 0.5s;
 }
 
 /*# sourceMappingURL=index.css.map */
