@@ -61,7 +61,8 @@ body {
   position: relative;
   z-index: 1;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: flex-start;
+  overflow: hidden;
   width: 100%;
   padding: 1px;
   box-sizing: border-box;
@@ -95,7 +96,7 @@ body {
   transition: 0.9s;
 }
 .sideBar > ul li ul li {
-  padding: 2px;
+  padding: 6px 2px;
   margin: 2px;
   position: relative;
 }

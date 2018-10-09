@@ -46,10 +46,17 @@ let categories = new Promise((resolve, reject) => {
                 freqFinal.push(v);
             }
         });
-        resolve([finalCategory, langFinal, dayFinal, freqFinal]);
+        let podCastList = [finalCategory, langFinal, dayFinal, freqFinal];
+        if (podCastList) {
+            return resolve({ podCastList, response });
+        }
+        else {
+            return reject('Empty Pod cast');
+        }
     });
 });
-categories.then(re => {
+categories.then((res) => {
+    let re = res.podCastList;
     let category = document.createElement('ul');
     re[0].map((v, i) => {
         let theChildren = document.createElement('li');
@@ -92,27 +99,41 @@ categories.then(re => {
         theChildren.appendChild(document.createTextNode(v.toUpperCase()));
         theChildren.setAttribute('class', 'subMenu');
         theChildren.addEventListener('click', (event) => {
-            console.log(event.target.innerText);
+            let events = event.target;
+            console.log(re[2][i]);
         });
         return frquencies.appendChild(theChildren);
     }).join(' ');
     let freq = document.getElementById('frequency');
     freq.appendChild(frquencies);
+    let contents = res.response;
+    console.log(contents);
+})
+    .catch((reason) => {
+    console.log(reason);
 });
 const listMenu = document.querySelectorAll('#sideContent li');
 let nullMe;
 let listTrig;
 listMenu.forEach((el) => {
     el.addEventListener('click', (ev) => {
-        let targetSpace = ev.target;
         listMenu.forEach((e) => {
             if (e.getAttribute('id') !== ev.target.attributes.getNamedItem('id').value) {
                 e.children[0].style.opacity = '0';
                 e.children[0].style.height = '0px';
+                e.classList.remove('checkMe');
             }
             else {
-                e.children[0].style.opacity = '1';
-                e.children[0].style.height = '400px';
+                if (e.classList.contains('checkMe')) {
+                    e.classList.remove('checkMe');
+                    e.children[0].style.opacity = '0';
+                    e.children[0].style.height = '0px';
+                }
+                else {
+                    e.classList.add('checkMe');
+                    e.children[0].style.opacity = '1';
+                    e.children[0].style.height = '400px';
+                }
             }
         });
     });
