@@ -92,7 +92,7 @@ categories.then(re => {
         theChildren.appendChild(document.createTextNode(v.toUpperCase()));
         theChildren.setAttribute('class', 'subMenu');
         theChildren.addEventListener('click', (event) => {
-            console.log(event);
+            console.log(event.target.innerText);
         });
         return frquencies.appendChild(theChildren);
     }).join(' ');
@@ -100,16 +100,19 @@ categories.then(re => {
     freq.appendChild(frquencies);
 });
 const listMenu = document.querySelectorAll('#sideContent li');
+let nullMe;
+let listTrig;
 listMenu.forEach((el) => {
     el.addEventListener('click', (ev) => {
+        let targetSpace = ev.target;
         listMenu.forEach((e) => {
-            if (ev.target.attributes.id !== undefined && ev.target.attributes.id.value !== e.attributes.id.value) {
-                e.style.opacity = '0';
-                e.style.display = 'none';
+            if (e.getAttribute('id') !== ev.target.attributes.getNamedItem('id').value) {
+                e.children[0].style.opacity = '0';
+                e.children[0].style.height = '0px';
             }
-            if (ev.target.attributes.id !== undefined && ev.target.attributes.id.value == e.attributes.id.value) {
-                ev.target.children[0].style.height = '400px';
-                ev.target.children[0].style.opacity = '1';
+            else {
+                e.children[0].style.opacity = '1';
+                e.children[0].style.height = '400px';
             }
         });
     });
