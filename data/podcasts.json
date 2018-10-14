@@ -250,5 +250,16 @@
         "updates": "Every week theres a round of premier league soccer",
         "broadcast": "Every week theres a round of premier league soccer",
         "logo": "https://i1.sndcdn.com/avatars-000485503029-w7twqp-t500x500.jpg"
+      },
+     {
+        "name": "IRL",
+        "host": "Veronica Belmont",
+        "url": "https://irlpodcast.org/",
+        "category": "Technology, Geek, Internet, Cybersecurity",
+        "description": "Host Veronica Belmont shares real stories of life online and real talk about the future of the Web.",
+        "languages": "English",
+        "updates": "Weekly/Seasonal",
+        "broadcast": "Monday",
+        "logo": "https://irlpodcast.org/images/episodes/S01E00/artwork.png"
     }
 ]
