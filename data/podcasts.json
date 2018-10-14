@@ -162,6 +162,17 @@
         "languages": "English",
         "updates": "daily",
         "broadcast": "daily",
-        "logo": "https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/logo.png?fit=321%2C138&ssl=1",
+        "logo": "https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/logo.png?fit=321%2C138&ssl=1"
+    },
+    {
+        "name": "DEVNAESTRADA",
+        "host": "Fellipe Azambuja",
+        "url": "devnaestrada.com.br",
+        "category": "Web development",
+        "description": "The podcast on web development, with interviews, discussions and community events.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Friday",
+        "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
     }
 ]
