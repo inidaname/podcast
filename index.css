@@ -31,6 +31,10 @@ a, a:visited, a:active, a:hover {
   padding: 0;
 }
 
+.menuSP {
+  cursor: pointer;
+}
+
 #main {
   transition: 0.5s;
   padding: 20px;
