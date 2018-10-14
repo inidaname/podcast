@@ -3,8 +3,7 @@ var gh = new GitHub({
     token: 'b4eff74db53c9f3279ab41df31aafc90a8fdc9cc'
 });
 var podcast = gh.getRepo('inidaname', 'podcast');
-podcast.getContributors()
-    .then(function (res) { return console.log(res); });
+podcast.getContributors();
 console.log(podcast.getCollaborators());
 var broadcast;
 var frequency;
