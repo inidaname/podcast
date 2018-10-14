@@ -31,5 +31,16 @@
         "updates": "Weekly",
         "broadcast": "Tuesdays",
         "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
+    },
+    {
+        "name": "Security Now",
+        "host": "Steve Gibson",
+        "url": "https://www.grc.com/securitynow.htm",
+        "category": "Network Security, Computer Science,",
+        "description": "Weekly round up of IT Security news and technical deep dives",
+        "language": "English",
+        "updates": "Weekly",
+        "broadcast": "Tuesdays",
+        "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg"
     }
 ]
