@@ -241,28 +241,17 @@
         "logo": "https://geekspeak.org//assets/GeekSpeak_title_300w-94c7a7e0537f564893a3e56a1fbc125c2e72f58c2316cef67d21e31c5b133dbf.png"
     },
     {
-        "name": "JavaScript Jabber",
-        "host": "Charles Wood",
-        "url": "https://devchat.tv/js-jabber/",
-        "category": "JavaScript",
-        "description": "A weekly podcast discussing the superb language JavaScript.",
-        "languages": "English",
-        "updates": "weekly",
-        "broadcast": "weekly",
-        "logo": "https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg"
+    "name": "JavaScript Jabber",
+    "host": "Charles Wood",
+    "url": "https://devchat.tv/js-jabber/",
+    "category": "JavaScript",
+    "description": "A weekly podcast discussing the superb language JavaScript.",
+    "languages": "English",
+    "updates": "weekly",
+    "broadcast": "weekly",
+    "logo": "https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg"
     },
     {
-        "name": "Wildcard FC",
-        "host": "Christian Wessel & Kim Midtlie",
-        "url": "https://soundcloud.com/cwessel",
-        "category": "Fantasy Premier Leauge",
-        "description": "A podcast for those interested in FPL, tough in a relaxed and fun setting.",
-        "languages": "Norweagian",
-        "updates": "Every week theres a round of premier league soccer",
-        "broadcast": "Every week theres a round of premier league soccer",
-        "logo": "https://i1.sndcdn.com/avatars-000485503029-w7twqp-t500x500.jpg"
-      },
-     {
         "name": "IRL",
         "host": "Veronica Belmont",
         "url": "https://irlpodcast.org/",
