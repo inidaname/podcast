@@ -42,5 +42,18 @@
         "updates": "Daily",
         "broadcast": "Week days",
         "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+    },
+    {
+        "name": "Podcast.__.init__(‘Python’)",
+        "host": "Tobias Macey",
+        "url": "https://www.podcastinit.com/",
+        "category": "Python",
+        "description": "Podcast.__.init focuses on the technical details of writing in Python and is valuable for anyone building an application of their own.",
+        "languages": "English",
+        "updates": "Daily",
+        "broadcast": "Weekly",
+        "logo": "https://i0.wp.com/www.podcastinit.com/wp-content/uploads/revised_logo.png"
     }
+
+
 ]
