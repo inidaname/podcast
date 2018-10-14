@@ -110,16 +110,27 @@
         "logo": "https://spec.fm/static/img/shows/orthogonal.jpg"
     },
     {
-        "name": "The CyberWire",
-        "host": "John Petrik",
-        "url": "thecyberwire.com/podcasts",
-        "category": "Cybersecurity, Security, Internet,",
-        "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
-        "languages": "English",
-        "updates": "Daily",
-        "broadcast": "Week days",
-        "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
-    },
+          "name": "The CyberWire",
+          "host": "John Petrik",
+          "url": "thecyberwire.com/podcasts",
+          "category": "Cybersecurity, Security, Internet,",
+          "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
+          "languages": "English",
+          "updates": "Daily",
+          "broadcast": "Week days",
+          "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+      },
+	  {
+  		  "name": "Hipsters",
+  		  "host": "Paulo Silveira, Maurício 'Balboa' Linhares and Roberta Arcoverde",
+  		  "url": "www.hipsters.tech",
+  		  "category": "general, dev, security, startup, scrum",
+  		  "description": "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.",
+  		  "languages": "Portuguese",
+  		  "updates": "weekly",
+  		  "broadcast": "tuesday"
+  		  "logo": "https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg"
+	  },
     {
         "name": "Talk Python to Me",
         "host": "Michael Kennedy",
