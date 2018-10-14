@@ -117,7 +117,6 @@ categories.then(function (res) {
     }).join(' ');
     var mainList = document.getElementById('mainList');
     mainList.appendChild(podcastEl);
-    console.log(contents);
 })
     .catch(function (reason) {
     console.log(reason);
