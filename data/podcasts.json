@@ -33,6 +33,17 @@
         "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
     },
     {
+    	"name": "Developer Tea",
+    	"host": "Jonathan Cutrell",
+    	"url": "https://spec.fm/podcasts/developer-tea",
+    	"category": "Startup, Developer",
+    	"description": "A podcast for developers designed to fit inside your tea break",
+    	"languages": "English",
+    	"updates": "Daily",
+    	"broadcast": "Week days",
+    	"logo": "https://spec.fm/static/img/shows/developertea.jpg"
+    },
+    {
         "name": "freecodecamp",
         "host": "Quincy Larson",
         "url": "https://freecodecamp.libsyn.com/",
