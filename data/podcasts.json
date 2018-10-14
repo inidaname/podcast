@@ -119,5 +119,16 @@
         "updates": "Daily",
         "broadcast": "Week days",
         "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+    },
+    {
+        "name": "Talk Python to Me",
+        "host": "Michael Kennedy",
+        "url": "https://talkpython.fm/",
+        "category": "Python, Software Development",
+        "description": "Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).",
+        "languages": "English",
+        "updates": "Weekly",
+        "broadcast": "Week days",
+        "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
     }
 ]
