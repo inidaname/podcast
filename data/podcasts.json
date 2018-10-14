@@ -18,7 +18,7 @@
         "description": "A Tasty Treats Podcast for Web Developers.",
         "languages": "English",
         "updates": "Daily",
-        "broadcast": "Week days",
+        "broadcast": "Monday & Thursday",
         "logo": "https://syntax.fm/static/logo.png"
     },
     {
@@ -31,5 +31,27 @@
         "updates": "Weekly",
         "broadcast": "Tuesdays",
         "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
+    },
+    {
+        "name": "freecodecamp",
+        "host": "Quincy Larson",
+        "url": "https://freecodecamp.libsyn.com/",
+        "category": "online courses, programming projects, interview preparation",
+        "description": "The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs.",
+        "languages": "English",
+        "updates": "Weekly",
+        "broadcast": "Weekly",
+        "logo": "https://assets.libsyn.com/secure/content/17773585/?height=80"
+    },
+    {
+        "name": "frontendhappyhour",
+        "host": "Ryan Burgess",
+        "url": "http://frontendhappyhour.com/",
+        "category": "Javascript, front end developement, build tools, web development",
+        "description": "A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.",
+        "languages": "English",
+        "updates": "Every alternative week",
+        "broadcast": "Every alternative week",
+        "logo": "http://frontendhappyhour.com/public/img/front-end-happy-hour.svg"
     }
 ]
