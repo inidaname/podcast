@@ -31,5 +31,16 @@
         "updates": "Weekly",
         "broadcast": "Tuesdays",
         "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
+    },
+    {
+        "name": "Head GAMs",
+        "host": "Bryan Gottlieb and Jonathan Carter",
+        "url": "https://soundcloud.com/user-121566285",
+        "category": "Mental fitness in Gaming",
+        "description": "However you compete, Head GAMs is the best resource for strengthening your mental game.",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Mondays",
+        "logo": "https://pbs.twimg.com/profile_images/1047688630867652608/Cl7Si8QO_400x400.jpg"
     }
 ]
