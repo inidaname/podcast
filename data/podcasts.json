@@ -31,5 +31,16 @@
         "updates": "Weekly",
         "broadcast": "Tuesdays",
         "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
+    },
+    {
+        "name": "The CyberWire",
+        "host": "John Petrik",
+        "url": "thecyberwire.com/podcasts",
+        "category": "Cybersecurity, Security, Internet,",
+        "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
+        "languages": "English",
+        "updates": "Daily",
+        "broadcast": "Week days",
+        "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
     }
 ]
