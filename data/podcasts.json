@@ -152,5 +152,16 @@
         "updates": "Every alternative week",
         "broadcast": "Every alternative week",
         "logo": "https://darknetdiaries.com/imgs/darknet-diaries-sq.png"
+    },
+    {
+        "name": "DEVNAESTRADA",
+        "host": "Fellipe Azambuja",
+        "url": "devnaestrada.com.br",
+        "category": "Web development",
+        "description": "The podcast on web development, with interviews, discussions and community events.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Friday",
+        "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
     }
 ]
