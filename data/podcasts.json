@@ -184,5 +184,16 @@
         "updates": "weekly",
         "broadcast": "Friday",
         "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
+    },
+    {
+        "name": "Hanselminutes",
+        "host": "Scott Hanselman",
+        "url": "https://hanselminutes.com/",
+        "category": "Technology",
+        "description": "Fresh Tech Talk from Fresh Faces",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Thursday",
+        "logo": "https://hanselminutes.com/images/logo.png",
     }
 ]
