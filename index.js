@@ -129,20 +129,26 @@ listMenu.forEach(function (el) {
     el.addEventListener('click', function (ev) {
         listMenu.forEach(function (e) {
             if (e.getAttribute('id') !== ev.target.attributes.getNamedItem('id').value) {
+                e.style.opacity = '0';
                 e.children[0].style.opacity = '0';
                 e.children[0].style.height = '0px';
+                e.children[0].style.overFlow = 'none';
                 e.classList.remove('checkMe');
             }
             else {
                 if (e.classList.contains('checkMe')) {
                     e.classList.remove('checkMe');
+                    el.style.opacity = '1';
                     e.children[0].style.opacity = '0';
+                    e.children[0].style.overFlow = 'none';
                     e.children[0].style.height = '0px';
                 }
                 else {
                     e.classList.add('checkMe');
+                    e.style.opacity = '1';
                     e.children[0].style.opacity = '1';
                     e.children[0].style.height = '400px';
+                    e.children[0].style.overFlow = 'block';
                 }
             }
         });
