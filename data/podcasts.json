@@ -140,5 +140,27 @@
         "updates": "Weekly",
         "broadcast": "Week days",
         "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
+    },
+    {
+        "name": "Darknet Diaries",
+        "host": "Jack Rhysider",
+        "url": "https://darknetdiaries.com/",
+        "category": "Cybersecurity, Security, Internet,",
+        "description": "True stories from the dark side of the Internet.",
+        "languages": "English",
+        "updates": "Every alternative week",
+        "broadcast": "Every alternative week",
+        "logo": "https://darknetdiaries.com/imgs/darknet-diaries-sq.png"
+    },
+    {
+        "name": "DEVNAESTRADA",
+        "host": "Fellipe Azambuja",
+        "url": "devnaestrada.com.br",
+        "category": "Web development",
+        "description": "The podcast on web development, with interviews, discussions and community events.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Friday",
+        "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
     }
 ]
