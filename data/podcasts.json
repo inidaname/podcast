@@ -98,6 +98,17 @@
         "broadcast": "Mondays",
         "logo": "https://pbs.twimg.com/profile_images/1047688630867652608/Cl7Si8QO_400x400.jpg"
     },
+   {
+        "name": "Orthogonal",
+        "host": "Andrew Carroll, Brett Kelly",
+        "url": "https://spec.fm/podcasts/orthogonal",
+        "category": "finance, freelance",
+        "description": "A show about finance, freelance and being better at both",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Thursday",
+        "logo": "https://spec.fm/static/img/shows/orthogonal.jpg"
+    },
     {
         "name": "The CyberWire",
         "host": "John Petrik",
