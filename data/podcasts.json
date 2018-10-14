@@ -206,5 +206,16 @@
         "updates": "weekly",
         "broadcast": "Thursday",
         "logo": "https://hanselminutes.com/images/logo.png"
+    },
+    {
+        "name": "Full Stack Radio",
+        "host": "Adam Wathan",
+        "url": "http://www.fullstackradio.com/",
+        "category": "Software Development, Programming, Full Stack Dev",
+        "description": "A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.",
+        "languages": "English",
+        "updates": "Every alternative week",
+        "broadcast": "Once or Twice a month",
+        "logo": "https://media.simplecast.com/podcast/image/279/small_1413649662-artwork.jpg"
     }
 ]
