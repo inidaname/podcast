@@ -15,7 +15,7 @@ If an awesome podcast you know is not already on this list, this is how you can 
 * `clone` it to you local machine
 * open the [data]() file
 * Add yours in the format below
-* Send a `poll request` 🎉
+* Send a `pull request` 🎉
 
 ```
 {

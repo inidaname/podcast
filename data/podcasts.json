@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Creative Chronicles",
         "host": "Bright C.",
         "url": "www.thecreativeschronicles.com",
@@ -38,21 +37,21 @@
         "url": "https://www.grc.com/securitynow.htm",
         "category": "Network Security, Computer Science,",
         "description": "Weekly round up of IT Security news and technical deep dives",
-        "language": "English",
+        "languages": "English",
         "updates": "Weekly",
         "broadcast": "Tuesdays",
         "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg"
     },
     {
-    	"name": "Developer Tea",
-    	"host": "Jonathan Cutrell",
-    	"url": "https://spec.fm/podcasts/developer-tea",
-    	"category": "Startup, Developer",
-    	"description": "A podcast for developers designed to fit inside your tea break",
-    	"languages": "English",
-    	"updates": "Daily",
-    	"broadcast": "Week days",
-    	"logo": "https://spec.fm/static/img/shows/developertea.jpg"
+        "name": "Developer Tea",
+        "host": "Jonathan Cutrell",
+        "url": "https://spec.fm/podcasts/developer-tea",
+        "category": "Startup, Developer",
+        "description": "A podcast for developers designed to fit inside your tea break",
+        "languages": "English",
+        "updates": "Daily",
+        "broadcast": "Week days",
+        "logo": "https://spec.fm/static/img/shows/developertea.jpg"
     },
     {
         "name": "freecodecamp",
@@ -65,17 +64,17 @@
         "broadcast": "Weekly",
         "logo": "https://assets.libsyn.com/secure/content/17773585/?height=80"
     },
-     {
-          "name": "Podcast.__.init__(‘Python’)",
-          "host": "Tobias Macey",
-          "url": "https://www.podcastinit.com/",
-          "category": "Python",
-          "description": "Podcast.__.init focuses on the technical details of writing in Python and is valuable for anyone building an application of their own.",
-          "languages": "English",
-          "updates": "Daily",
-          "broadcast": "Weekly",
-          "logo": "https://i0.wp.com/www.podcastinit.com/wp-content/uploads/revised_logo.png"
-     },
+    {
+        "name": "Podcast.__.init__(Python’)",
+        "host": "Tobias Macey",
+        "url": "https://www.podcastinit.com/",
+        "category": "Python",
+        "description": "Podcast.__.init focuses on the technical details of writing in Python and is valuable for anyone building an application of their own.",
+        "languages": "English",
+        "updates": "Daily",
+        "broadcast": "Weekly",
+        "logo": "https://i0.wp.com/www.podcastinit.com/wp-content/uploads/revised_logo.png"
+    },
     {
         "name": "frontendhappyhour",
         "host": "Ryan Burgess",
@@ -98,7 +97,7 @@
         "broadcast": "Mondays",
         "logo": "https://pbs.twimg.com/profile_images/1047688630867652608/Cl7Si8QO_400x400.jpg"
     },
-   {
+    {
         "name": "Orthogonal",
         "host": "Andrew Carroll, Brett Kelly",
         "url": "https://spec.fm/podcasts/orthogonal",
@@ -121,6 +120,17 @@
         "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
     },
     {
+        "name": "Hipsters",
+        "host": "Paulo Silveira, Maurício 'Balboa' Linhares and Roberta Arcoverde",
+        "url": "www.hipsters.tech",
+        "category": "general, dev, security, startup, scrum",
+        "description": "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "tuesday",
+        "logo": "https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg"
+    },
+    {
         "name": "Talk Python to Me",
         "host": "Michael Kennedy",
         "url": "https://talkpython.fm/",
@@ -130,6 +140,61 @@
         "updates": "Weekly",
         "broadcast": "Week days",
         "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
+    },
+    {
+        "name": "The Changelog",
+        "host": "Adam Stacoviak",
+        "url": "https://changelog.com/",
+        "category": "Software",
+        "description": "News for developers",
+        "languages": "English",
+        "updates": "Every alternative day",
+        "broadcast": "Every alternative day",
+        "logo": "https://cdn.changelog.com/images/brand/changelog-logomark-97913322799ebebe4ec08d1ee2492899.svg?vsn=d"
+    },
+    {
+        "name": "Darknet Diaries",
+        "host": "Jack Rhysider",
+        "url": "https://darknetdiaries.com/",
+        "category": "Cybersecurity, Security, Internet,",
+        "description": "True stories from the dark side of the Internet.",
+        "languages": "English",
+        "updates": "Every alternative week",
+        "broadcast": "Every alternative week",
+        "logo": "https://darknetdiaries.com/imgs/darknet-diaries-sq.png"
+    },
+    {
+        "name": "Software Engineering Daily",
+        "host": "Jeff Meyerson",
+        "url": "https://softwareengineeringdaily.com/",
+        "category": "Software",
+        "description": "Software Engineering Daily features daily interviews about technical software topics.",
+        "languages": "English",
+        "updates": "daily",
+        "broadcast": "daily",
+        "logo": "https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/logo.png?fit=321%2C138&ssl=1"
+    },
+    {
+        "name": "DEVNAESTRADA",
+        "host": "Fellipe Azambuja",
+        "url": "devnaestrada.com.br",
+        "category": "Web development",
+        "description": "The podcast on web development, with interviews, discussions and community events.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Friday",
+        "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
+    },
+    {
+        "name": "Hanselminutes",
+        "host": "Scott Hanselman",
+        "url": "https://hanselminutes.com/",
+        "category": "Technology",
+        "description": "Fresh Tech Talk from Fresh Faces",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Thursday",
+        "logo": "https://hanselminutes.com/images/logo.png"
     },
     {
         "name": "Full Stack Radio",
