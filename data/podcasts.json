@@ -86,5 +86,16 @@
           "updates": "Daily",
           "broadcast": "Week days",
           "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
-      }
+      },
+	  {
+  		  "name": "Hipsters",
+  		  "host": "Paulo Silveira, Maurício 'Balboa' Linhares and Roberta Arcoverde",
+  		  "url": "www.hipsters.tech",
+  		  "category": "general, dev, security, startup, scrum",
+  		  "description": "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.",
+  		  "languages": "Portuguese",
+  		  "updates": "weekly",
+  		  "broadcast": "tuesday"
+  		  "logo": "https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg"
+	  }
 ]
