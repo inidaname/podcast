@@ -141,5 +141,16 @@
         "updates": "Weekly",
         "broadcast": "Week days",
         "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
+    },
+    {
+        "name": "DEVNAESTRADA",
+        "host": "Fellipe Azambuja",
+        "url": "devnaestrada.com.br",
+        "category": "Web development",
+        "description": "The podcast on web development, with interviews, discussions and community events.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Friday",
+        "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
     }
 ]
