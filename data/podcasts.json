@@ -164,6 +164,17 @@
         "logo": "https://darknetdiaries.com/imgs/darknet-diaries-sq.png"
     },
     {
+        "name": "Software Engineering Daily",
+        "host": "Jeff Meyerson",
+        "url": "https://softwareengineeringdaily.com/",
+        "category": "Software",
+        "description": "Software Engineering Daily features daily interviews about technical software topics.",
+        "languages": "English",
+        "updates": "daily",
+        "broadcast": "daily",
+        "logo": "https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/logo.png?fit=321%2C138&ssl=1"
+    },
+    {
         "name": "DEVNAESTRADA",
         "host": "Fellipe Azambuja",
         "url": "devnaestrada.com.br",
