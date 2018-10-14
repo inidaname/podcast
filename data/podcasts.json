@@ -38,7 +38,7 @@
         "url": "https://www.grc.com/securitynow.htm",
         "category": "Network Security, Computer Science,",
         "description": "Weekly round up of IT Security news and technical deep dives",
-        "language": "English",
+        "languages": "English",
         "updates": "Weekly",
         "broadcast": "Tuesdays",
         "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg"
@@ -66,7 +66,7 @@
         "logo": "https://assets.libsyn.com/secure/content/17773585/?height=80"
     },
      {
-          "name": "Podcast.__.init__(‘Python’)",
+          "name": "Podcast.__.init__(Python’)",
           "host": "Tobias Macey",
           "url": "https://www.podcastinit.com/",
           "category": "Python",
@@ -110,15 +110,37 @@
         "logo": "https://spec.fm/static/img/shows/orthogonal.jpg"
     },
     {
-        "name": "The CyberWire",
-        "host": "John Petrik",
-        "url": "thecyberwire.com/podcasts",
-        "category": "Cybersecurity, Security, Internet,",
-        "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
+          "name": "The CyberWire",
+          "host": "John Petrik",
+          "url": "thecyberwire.com/podcasts",
+          "category": "Cybersecurity, Security, Internet,",
+          "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
+          "languages": "English",
+          "updates": "Daily",
+          "broadcast": "Week days",
+          "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+      },
+	  {
+  		  "name": "Hipsters",
+  		  "host": "Paulo Silveira, Maurício 'Balboa' Linhares and Roberta Arcoverde",
+  		  "url": "www.hipsters.tech",
+  		  "category": "general, dev, security, startup, scrum",
+  		  "description": "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.",
+  		  "languages": "Portuguese",
+  		  "updates": "weekly",
+  		  "broadcast": "tuesday",
+  		  "logo": "https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg"
+	  },
+    {
+        "name": "Talk Python to Me",
+        "host": "Michael Kennedy",
+        "url": "https://talkpython.fm/",
+        "category": "Python, Software Development",
+        "description": "Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).",
         "languages": "English",
-        "updates": "Daily",
+        "updates": "Weekly",
         "broadcast": "Week days",
-        "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+        "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
     },
     {
         "name": "DEVNAESTRADA",
