@@ -3,12 +3,25 @@
   src: url("./assets/fonts/AlfaSlabOne-Regular.ttf");
 }
 @font-face {
+  font-family: "Oswald";
+  src: url("./assets/fonts/Oswald-Regular.ttf");
+}
+@font-face {
+  font-family: "Raleway";
+  src: url("./assets/fonts/Raleway-Regular.ttf");
+}
+@font-face {
   font-family: "Source Serif Pro";
   src: url("./assets/fonts/SourceSerifPro-Regular.ttf");
 }
 body {
   margin: 0;
   padding: 0;
+}
+
+a, a:visited, a:active, a:hover {
+  color: unset;
+  text-decoration: none;
 }
 
 #app {
@@ -19,8 +32,10 @@ body {
 }
 
 #main {
-  transition: margin-left 0.5s;
+  transition: 0.5s;
   padding: 20px;
+  width: 95%;
+  box-sizing: border-box;
 }
 
 .sideBar {
@@ -94,11 +109,75 @@ body {
   height: 0;
   opacity: 0;
   transition: 0.9s;
+  font-family: serif;
 }
 .sideBar > ul li ul li {
   padding: 6px 2px;
   margin: 2px;
   position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.podcast {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style: none;
+  min-height: 400px;
+  box-sizing: border-box;
+}
+.podcast .podList {
+  width: 80%;
+  margin: 10px auto;
+  overflow: hidden;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
+  border-radius: 13px;
+  padding: 12px;
+  box-sizing: border-box;
+  transition: 0.2s;
+}
+.podcast .podList:hover {
+  box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.4);
+  transition: 0.5s;
+}
+.podcast .podList div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.podcast .podList div h3 {
+  font-family: "Oswald", sans-serif;
+}
+.podcast .podList div img {
+  width: 120px;
+}
+@media screen and (min-width: 1025px) {
+  .podcast .podList {
+    width: 300px;
+    margin: 15px;
+  }
+}
+.podcast .podList ul {
+  margin: 21px auto;
+  width: 100%;
+  text-wrap: wrap;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: "Raleway", sans-serif;
+  font-size: 13px;
+  justify-content: space-around;
+  list-style: none;
+}
+.podcast .podList ul li {
+  width: 100%;
+  margin: 3px;
 }
 
 .hide {
