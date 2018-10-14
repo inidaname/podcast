@@ -217,5 +217,16 @@
         "updates": "Every alternative week",
         "broadcast": "Once or Twice a month",
         "logo": "https://media.simplecast.com/podcast/image/279/small_1413649662-artwork.jpg"
+    },
+    {
+        "name": "Geek Speak",
+        "host": "Lyle Troxell",
+        "url": "https://geekspeak.org/",
+        "category": "Technology, Programming, Geek",
+        "description": "A podcast created in Silicon Valley about how technology affects society and culture from the Geek perspective. Airing weekly since 1998.",
+        "languages": "English",
+        "updates": "Weekly",
+        "broadcast": "Weekly",
+        "logo": "https://geekspeak.org//assets/GeekSpeak_title_300w-94c7a7e0537f564893a3e56a1fbc125c2e72f58c2316cef67d21e31c5b133dbf.png"
     }
 ]
