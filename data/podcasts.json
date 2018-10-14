@@ -33,6 +33,17 @@
         "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
     },
     {
+        "name": "Security Now",
+        "host": "Steve Gibson",
+        "url": "https://www.grc.com/securitynow.htm",
+        "category": "Network Security, Computer Science,",
+        "description": "Weekly round up of IT Security news and technical deep dives",
+        "language": "English",
+        "updates": "Weekly",
+        "broadcast": "Tuesdays",
+        "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg"
+    },
+    {
     	"name": "Developer Tea",
     	"host": "Jonathan Cutrell",
     	"url": "https://spec.fm/podcasts/developer-tea",
@@ -88,14 +99,14 @@
         "logo": "https://pbs.twimg.com/profile_images/1047688630867652608/Cl7Si8QO_400x400.jpg"
     },
     {
-            "name": "The CyberWire",
-            "host": "John Petrik",
-            "url": "thecyberwire.com/podcasts",
-            "category": "Cybersecurity, Security, Internet,",
-            "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
-            "languages": "English",
-            "updates": "Daily",
-            "broadcast": "Week days",
-            "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+        "name": "The CyberWire",
+        "host": "John Petrik",
+        "url": "thecyberwire.com/podcasts",
+        "category": "Cybersecurity, Security, Internet,",
+        "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
+        "languages": "English",
+        "updates": "Daily",
+        "broadcast": "Week days",
+        "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
     }
 ]
