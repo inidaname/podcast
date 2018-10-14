@@ -154,20 +154,5 @@ listMenu.forEach(function (el) {
     });
 });
 function openNav() {
-    if (!document.body.classList.contains('menuMoved')) {
-        document.body.classList.add('menuMoved');
-        var sideBar = document.getElementById('sideBar');
-        sideBar.style.width = "300px";
-        var main = document.getElementById('main');
-        main.style.marginLeft = "300px";
-        main.style.width = "calc(100% - 300px)";
-    }
-    else {
-        var sideBar = document.getElementById('sideBar');
-        sideBar.style.width = "0px";
-        var main = document.getElementById('main');
-        main.style.marginLeft = "0px";
-        main.style.width = "100%";
-        document.body.classList.remove('menuMoved');
-    }
+    console.log();
 }
