@@ -186,6 +186,17 @@
         "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
     },
     {
+      "name": "Hello Internet",
+        "host": "CGP Grey and Dr. Brady Haran",
+        "url": "http://www.hellointernet.fm/",
+        "category": "general, youtube",
+        "description": "Interesting ramblings of two youtubers.",
+        "languages": "English",
+        "updates": "biweekly",
+        "broadcast": "fridays",
+        "logo": "https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/52f20963e4b028d7d4c1f6d4/1391593828907/Hello+Internet.003.png"
+    },
+    {
         "name": "Hanselminutes",
         "host": "Scott Hanselman",
         "url": "https://hanselminutes.com/",
@@ -194,6 +205,6 @@
         "languages": "English",
         "updates": "weekly",
         "broadcast": "Thursday",
-        "logo": "https://hanselminutes.com/images/logo.png",
+        "logo": "https://hanselminutes.com/images/logo.png"
     }
 ]
