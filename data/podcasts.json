@@ -241,17 +241,6 @@
         "logo": "https://geekspeak.org//assets/GeekSpeak_title_300w-94c7a7e0537f564893a3e56a1fbc125c2e72f58c2316cef67d21e31c5b133dbf.png"
     },
     {
-        "name": "Welcome to Night Vale",
-        "host": "Cecil Baldwin",
-        "url": "http://www.welcometonightvale.com",
-        "category": "Comedy-Drama, Satire, Mystery",
-        "description": "News podcasts from a paranormal desert town",
-        "languages": "English",
-        "updates": "Twice Monthly",
-        "broadcast": "First and fifteenth of every month",
-        "logo": "https://static1.squarespace.com/static/51e7119ae4b01c2e6a200e01/t/56f04169b6aa603335257757/1424727845212/?format=300w"
-    },
-   {
     "name": "JavaScript Jabber",
     "host": "Charles Wood",
     "url": "https://devchat.tv/js-jabber/",
