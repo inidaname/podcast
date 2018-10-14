@@ -86,5 +86,16 @@
             "updates": "Daily",
             "broadcast": "Week days",
             "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
-    }
+    },
+    {
+        "name": "Orthogonal",
+        "host": "Andrew Carroll, Brett Kelly",
+        "url": "https://spec.fm/podcasts/orthogonal",
+        "category": "finance, freelance",
+        "description": "A show about finance, freelance and being better at both",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Thursday",
+        "logo": "https://spec.fm/static/img/shows/orthogonal.jpg"
+    },
 ]
