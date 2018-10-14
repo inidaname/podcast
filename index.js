@@ -110,7 +110,8 @@ categories.then(function (res) {
     var podcastEl = document.createElement('ul');
     podcastEl.classList.add('podcast');
     contents.map(function (v, i) {
-        var mainURL = (v.url !== undefined && v.url.substring(0, 5) !== 'http') ? "http://" + v.url : v.url;
+        var mainURL = (v.url !== undefined && v.url.substring(0, 4) !== 'http') ? "http://" + v.url : v.url;
+        console.log(mainURL);
         var listBe = "\n        <a href=\"" + mainURL + "\" target=\"_blank\">\n            <li class=\"podList\">\n                <div>\n                    <h3> " + v.name + " </h3>\n                    <img src=\"" + v.logo + "\" alt=\"" + v.name + "\">\n                    <ul>\n                        <li>\n                            <strong>Host Name:</strong> <br> " + v.host + "\n                        </li>\n                        <li>\n                            <strong>Description:</strong> <br> " + v.description + "\n                        </li>\n                        <li>\n                            <span><strong>Updates:</strong>" + v.updates + "</span>\n                             <span><strong>Release:</strong>\n                             " + v.broadcast + "</span>\n                        </li>\n                        <li>\n                            <strong>Category:</strong> <br> " + v.category + "\n                        </li>\n                        <li>\n                            <strong>Language:</strong> <br> " + v.languages + "\n                        </li>\n                    </ul>\n                </div>\n            </li>\n        </a>\n        ";
         return podcastEl.append(document.createRange().createContextualFragment(listBe));
     }).join(' ');
