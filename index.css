@@ -33,6 +33,8 @@ a, a:visited, a:active, a:hover {
 
 .menuSP {
   cursor: pointer;
+  position: fixed;
+  top: 0;
 }
 
 #main {
