@@ -173,5 +173,16 @@
         "updates": "weekly",
         "broadcast": "Friday",
         "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
+    },
+    {
+        "name": "The Agile Revolution",
+        "host": "Craig Smith, Renee Troughton, Tony Ponton",
+        "url": "https://theagilerevolution.com/",
+        "category": "Agile, Software",
+        "description": "The Agile Revolution :: your one-stop podcast for all things Agile!",
+        "languages": "English",
+        "updates": "irregular",
+        "broadcast": "irregular",
+        "logo": "https://theagilerevolution.files.wordpress.com/2013/02/theagilerevolution3.jpg"
     }
 ]
