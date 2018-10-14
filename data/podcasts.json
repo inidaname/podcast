@@ -141,5 +141,16 @@
         "updates": "Weekly",
         "broadcast": "Week days",
         "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
+    },
+    {
+        "name": "The Changelog",
+        "host": "Adam Stacoviak",
+        "url": "https://changelog.com/",
+        "category": "Software",
+        "description": "News for developers",
+        "languages": "English",
+        "updates": "Every alternative day",
+        "broadcast": "Every alternative day",
+        "logo": "https://cdn.changelog.com/images/brand/changelog-logomark-97913322799ebebe4ec08d1ee2492899.svg?vsn=d"
     }
 ]
