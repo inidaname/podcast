@@ -119,5 +119,16 @@
         "updates": "Daily",
         "broadcast": "Week days",
         "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+    },
+    {
+        "name": "DEVNAESTRADA",
+        "host": "Fellipe Azambuja",
+        "url": "devnaestrada.com.br",
+        "category": "Web development",
+        "description": "The podcast on web development, with interviews, discussions and community events.",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Friday",
+        "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
     }
 ]
