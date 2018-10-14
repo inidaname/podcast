@@ -6,7 +6,7 @@ Let start
 
 #### First things first
 
-Check the [existing list](hassansani.me/podcast). For inspirations
+Check the [existing list](https://hassansani.me/podcast). For inspirations
 
 #### Next
 If an awesome podcast you know is not already on this list, this is how you can add it
@@ -46,7 +46,8 @@ If an awesome podcast you know is not already on this list, this is how you can 
 
 Thank you for taking the time to contribute! 👍🎉
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Follow the steps above and you are done.
+
 
 ## Authors
 
