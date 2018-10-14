@@ -7,7 +7,7 @@
         "languages": "English",
         "updates": "weekly",
         "broadcast": "fridays",
-        "logo": "https://pbs.twimg.com/profile_images/913581805625808/cdio1mQ5.jpg"
+        "logo": "https://thecreativeschronicles.com/wp-content/uploads/2018/10/TCC-Logo.png"
     },
     {
         "name": "Syntax",
@@ -251,4 +251,26 @@
         "broadcast": "First and fifteenth of every month",
         "logo": "https://static1.squarespace.com/static/51e7119ae4b01c2e6a200e01/t/56f04169b6aa603335257757/1424727845212/?format=300w"
     },
+   {
+    "name": "JavaScript Jabber",
+    "host": "Charles Wood",
+    "url": "https://devchat.tv/js-jabber/",
+    "category": "JavaScript",
+    "description": "A weekly podcast discussing the superb language JavaScript.",
+    "languages": "English",
+    "updates": "weekly",
+    "broadcast": "weekly",
+    "logo": "https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg"
+    },
+    {
+        "name": "IRL",
+        "host": "Veronica Belmont",
+        "url": "https://irlpodcast.org/",
+        "category": "Technology, Geek, Internet, Cybersecurity",
+        "description": "Host Veronica Belmont shares real stories of life online and real talk about the future of the Web.",
+        "languages": "English",
+        "updates": "Weekly/Seasonal",
+        "broadcast": "Monday",
+        "logo": "https://irlpodcast.org/images/episodes/S01E00/artwork.png"
+    }
 ]
