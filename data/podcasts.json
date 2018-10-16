@@ -1,4 +1,16 @@
-[{
+[
+    {
+        "name": ".NET Rocks",
+        "host": "Carl Franklin and Richard Campbell",
+        "url": "www.dotnetrocks.com",
+        "category": "programing, .net, Microsoft",
+        "description": "Programming on the Microsoft .NET platform",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Tuesdays and Thursdays",
+        "logo": "https://www.dotnetrocks.com/Content/img/basic/logo2.png"
+    },
+    {
         "name": "Creative Chronicles",
         "host": "Bright C.",
         "url": "www.thecreativeschronicles.com",
