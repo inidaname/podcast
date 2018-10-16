@@ -13,7 +13,7 @@ If an awesome podcast you know is not already on this list, this is how you can 
 
 * `fork` this `repo`
 * `clone` it to you local machine
-* open the [data]() file
+* open the [data](/data/podcast.json) file
 * Add yours in the format below
 * Send a `pull request` 🎉
 
