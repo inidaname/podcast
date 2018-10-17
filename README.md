@@ -6,7 +6,7 @@ Let start
 
 #### First things first
 
-Check out these article on how to make your first PR
+Check out these articles on how to make your first PR
 1. [GitHub](https://help.github.com/articles/creating-a-pull-request/)
 2. [Medium](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
