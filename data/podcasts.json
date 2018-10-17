@@ -283,6 +283,17 @@
     "languages": "English",
     "updates": "Seasonal",
     "logo": "https://www.redhat.com/cms/managed-files/logo-clh-240x60.png"
-    }
+  },
+  {
+    "name": "Learn to Code with Me",
+    "host": "Laurence Bradford",
+    "url": "https://learntocodewith.me/podcast/",
+    "category": "technology, learning, education",
+    "description": "The Learn to Code With Me podcast, created by Laurence Bradford, is for aspiring techies and self-taught coders looking to transition into the tech industry. Want actionable insights on how you can get paid for your coding skills? Then you're in the right place!",
+    "languages": "English",
+    "updates": "Weekly, Seasonal",
+    "broadcast": "Tuesday",
+    "logo": "https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/themes/remixx/images/logo.svg"
+  }
 
 ]
