@@ -273,5 +273,16 @@
         "updates": "Weekly/Seasonal",
         "broadcast": "Monday",
         "logo": "https://irlpodcast.org/images/episodes/S01E00/artwork.png"
+    },
+    {
+    "name": "Command Line Heros",
+    "host": "Saron Yitbarek",
+    "url": "https://www.redhat.com/en/command-line-heroes",
+    "category": "open source, hackers, programmers, technology",
+    "description": "An original podcast about the people who transform technology from the command line up. Presented by Red Hat.",
+    "languages": "English",
+    "updates": "Seasonal",
+    "logo": "https://www.redhat.com/cms/managed-files/logo-clh-240x60.png"
     }
+
 ]
