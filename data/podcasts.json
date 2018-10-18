@@ -295,5 +295,16 @@
     "updates": "Weekly, Seasonal",
     "broadcast": "Tuesday",
     "logo": "https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/themes/remixx/images/logo.svg"
-  }
+  },
+    {
+    "name": "Insanely Chill",
+    "host": "Cody Ko",
+    "url": "http://insanelychillpodcast.com/",
+    "category": "comedy, interesting",
+    "description": "A podcast with guest with funny topics",
+    "languages": "English",
+    "updates": "bi weekly",
+    "broadcast": "fridays",
+    "logo": "http://insanelychillpodcast.com/images/podcast_logo_website.png"
+    
 ]
