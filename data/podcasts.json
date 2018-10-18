@@ -295,5 +295,16 @@
     "updates": "Weekly, Seasonal",
     "broadcast": "Tuesday",
     "logo": "https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/themes/remixx/images/logo.svg"
-  }
+  },
+  {
+    "name": "Myths & Legends",
+    "host": "Jason",
+    "url": "https://www.mythpodcast.com/",
+    "category": "folklore, myths, stories",
+    "description": "Myths & Legends from all over the world",
+    "languages": "English",
+    "updates": "Weekly",
+    "broadcast": "Wednesdays",
+    "logo": "https://www.mythpodcast.com/wp-content/uploads/2018/07/myths_and_legends_logo.png"
+},
 ]
