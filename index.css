@@ -46,7 +46,6 @@ a, a:visited, a:active, a:hover {
 
 .sideBar {
   background-color: #b8b1b1;
-  width: 0;
   z-index: 1;
   top: 0;
   left: 0;
