@@ -318,6 +318,17 @@
     "updates": "Weekly",
     "broadcast": "Wednesdays",
     "logo": "https://www.mythpodcast.com/wp-content/uploads/2018/07/myths_and_legends_logo.png"
-}
+},
+    {
+        "name": "AppStories",
+        "host": "Federico Viticci, John Voorhees",
+        "url": "https://appstories.net",
+        "category": "Tech News",
+        "description": "A weekly exploration of the world of apps",
+        "languages": "English",
+        "updates": "weekly",
+        "broadcast": "Mondays",
+        "logo": "https://appstories.net/app/themes/appstories/images/logo.svg"
+    }
 ]
 
