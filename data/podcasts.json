@@ -275,6 +275,18 @@
         "logo": "https://irlpodcast.org/images/episodes/S01E00/artwork.png"
     },
     {
+
+        "name": "PodProgramar",
+        "host": "Jessi Zanelato",
+        "url": "https://mundopodcast.com.br/podprogramar",
+        "category": "News, Programming",
+        "description": "Podcast presented by developers Jessi Zanelato and Ana Eliza, focused on programming, news and stories from the area, everything with feminine touch in an area dominated by men.",
+        "languages": "Portuguese",
+        "updates": "Irregular",
+        "broadcast": "Irregular",
+        "logo": "https://i.imgur.com/Dqu4mSH.jpg"
+    },
+    {
     "name": "Command Line Heros",
     "host": "Saron Yitbarek",
     "url": "https://www.redhat.com/en/command-line-heroes",
@@ -306,6 +318,17 @@
     "updates": "bi weekly",
     "broadcast": "fridays",
     "logo": "http://insanelychillpodcast.com/images/podcast_logo_website.png"
-    }
-    
+    },
+  {
+    "name": "Myths & Legends",
+    "host": "Jason",
+    "url": "https://www.mythpodcast.com/",
+    "category": "folklore, myths, stories",
+    "description": "Myths & Legends from all over the world",
+    "languages": "English",
+    "updates": "Weekly",
+    "broadcast": "Wednesdays",
+    "logo": "https://www.mythpodcast.com/wp-content/uploads/2018/07/myths_and_legends_logo.png"
+}
 ]
+
