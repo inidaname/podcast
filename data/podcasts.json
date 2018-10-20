@@ -329,6 +329,17 @@
         "updates": "weekly",
         "broadcast": "Mondays",
         "logo": "https://appstories.net/app/themes/appstories/images/logo.svg"
+    },
+    {
+        "name": "Samurai Cast",
+        "host": "Felipe Fontoura",
+        "url": "https://devsamurai.com.br/samurai-cast/",
+        "category": "Technology, Learning, Productivity",
+        "description": "Tudo sobre como Aprender programação do ZERO ao Avançado, Produtividade, Carreira de TI e também o dia-a-dia de um programador (esse ser mítico que transforma cafeína em código).",
+        "languages": "Portuguese",
+        "updates": "weekly",
+        "broadcast": "Mondays",
+        "logo": "https://i.imgur.com/25fmJtC.png"
     }
 ]
 
