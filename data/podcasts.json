@@ -352,5 +352,16 @@
         "updates": "weekly",
         "broadcast": "Mondays",
         "logo": "https://i.imgur.com/25fmJtC.png"
-    }
+    },
+  {
+    "name": "Stuff You Should Know",
+    "host": "Josh Clark, Charles W. “Chuck” Bryant",
+    "url": "https://www.stuffyoushouldknow.com/",
+    "category": "Society & Culture",
+    "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks then look no further. Josh and Chuck have you covered.",
+    "languages": "English",
+    "updates": "Weekly",
+    "broadcast": "Weekly",
+    "logo": "http://static.megaphone.fm/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1521732699052-l46bxmk0qkc-071bfd4afd80223fcb2b944c07c0f97e_2Fsysk-audio-1600.jpg"
+  }
   ]
