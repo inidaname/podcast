@@ -352,5 +352,16 @@
         "updates": "weekly",
         "broadcast": "Mondays",
         "logo": "https://i.imgur.com/25fmJtC.png"
+    },
+    {
+      "name"        : "forLoopPod",
+      "host"        : "ForLoop Africa",
+      "url"         : "https://podcast.forloop.africa/",
+      "category"    : "Technical talks, Teach reviews, Interviews",
+      "description" : "Technical talks, tech reviews and personality interviews from people on their software development or design journey in Africa and across the globe",
+      "languages"   : "English",
+      "updates"     : "weekly",
+      "broadcast"   : "Monday & Fridays",
+      "logo"        : "https://deow9bq0xqvbj.cloudfront.net/image-logo/2951001/Rectangle.png"
     }
-  ]
+]
