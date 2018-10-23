@@ -363,5 +363,96 @@
       "updates"     : "weekly",
       "broadcast"   : "Monday & Fridays",
       "logo"        : "https://deow9bq0xqvbj.cloudfront.net/image-logo/2951001/Rectangle.png"
-    }
+
+  }, {
+    "name": "Android Developers Backstage",
+    "host": "Chet Hasse and Tor Norbye",
+    "url": "http://androidbackstage.blogspot.com/",
+    "category": "Android, mobile",
+    "description": "Android Backstage, a podcast by and for Android developers.",
+    "languages": "English",
+    "updates": "biweekly",
+    "broadcast": "Mondays",
+    "logo": "http://storage.googleapis.com/androiddevelopers/android_developers_backstage/adb.png"
+  }, {
+    "name": "Fragmented",
+    "host": "Donn Felker and Kaushik Gopal",
+    "url": "http://fragmentedpodcast.com/",
+    "category": "Android, mobile",
+    "description": "The Fragmented Podcast is a podcast for Android Developers hosted by Donn Felker and Kaushik Gopal.",
+    "languages": "English",
+    "updates": "periodically",
+    "broadcast": "Periodically",
+    "logo": "https://media.simplecast.com/podcast/image/1684/1474255312-artwork.jpg"
+  }, {
+    "name": "Embedded.fm",
+    "host": "Christopher and Elecia White",
+    "url": "https://www.embedded.fm/",
+    "category": "Embedded, hardware",
+    "description": "Embedded is the show for people who love gadgets.",
+    "languages": "English",
+    "updates": "Weekly",
+    "broadcast": "Thursday",
+    "logo": "http://static1.squarespace.com/static/50834ba9c4aa1a31c651078b/t/575ae364044262ac9d73d8b5/1465574246647/1500w/squarePoster1.jpg"
+  }, {
+    "name": "The Amp Hour",
+    "host": "Dave Jones and Chris Gammell",
+    "url": "https://theamphour.com/",
+    "category": "Embedded, hardware",
+    "description": "A weekly podcast about the electronics industry. Occasional guests. Lots of laughs.",
+    "languages": "English",
+    "updates": "Weekly",
+    "broadcast": "Thursday",
+    "logo": "https://theamphour.com/wp-content/uploads/powerpress/TheAmpHour-1400.jpg"
+  }, {
+    "name": "Method Podcast from Google Design",
+    "host": "Aidan Simpson",
+    "url": "https://design.google/library/podcasts/",
+    "category": "Design",
+    "description": "Hosted by Interaction Designer Aidan Simpson, the Method podcast profiles designers at Google, giving listeners an inside look at their journeys and design choices.",
+    "languages": "English",
+    "updates": "Monthly",
+    "broadcast": "Tuesday",
+    "logo": "http://static.libsyn.com/p/assets/1/e/9/3/1e9365bd0862bf3f/METHOD_SC_AVATAR_HERO_00.png"
+  }, {
+    "name": "Design Notes",
+    "host": "Liam Spradlin",
+    "url": "https://design.google/library/podcasts/",
+    "category": "Design",
+    "description": "Design Notes is a show about creative work and what it teaches us, hosted by Google’s Liam Spradlin. Each episode we’ll talk with people from unique creative fields to discover what inspires and unites us in our practice.",
+    "languages": "English",
+    "updates": "Monthly",
+    "broadcast": "Tuesday",
+    "logo": "http://static.libsyn.com/p/assets/8/c/8/2/8c823317aaa6c9b6/DN_LOGO_1X1.png"
+  }, {
+    "name": "Internet of Things Podcast",
+    "host": "Stacey Higginbotham and Kevin Tofel",
+    "url": "https://iotpodcast.com/",
+    "category": "Embedded, hardware, IoT",
+    "description": "Stacey Higginbotham (formerly Sr. Editor at Fortune) and co-host Kevin Tofel discuss the latest news and analysis of the Internet of Things.",
+    "languages": "English",
+    "updates": "weekly",
+    "broadcast": "Thursday",
+    "logo": "https://iotpodcast.com/wp-content/uploads/2015/07/IOT-podcast-12.png"
+  }, {
+    "name": "Google Cloud Platform Podcast",
+    "host": "Melanie Warrick and Mark Mandel",
+    "url": "https://www.gcppodcast.com/",
+    "category": "Javascript, front end developement, build tools, web development",
+    "description": "The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.",
+    "languages": "English",
+    "updates": "Weekly",
+    "broadcast": "Tuesday",
+    "logo": "http://www.gcppodcast.com/images/logo_large.png"
+  }, {
+    "name": "Design for Voice",
+    "host": "Jeremy Wilken",
+    "url": "https://anchor.fm/design-for-voice",
+    "category": "Voice",
+    "description": "Learn from industry leaders and pioneers about how to build quality voice experience with Design for Voice.",
+    "languages": "English",
+    "updates": "biweekly",
+    "broadcast": "Friday",
+    "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/739822/739822-1533861379317-a7fc2f15d5b5d.jpg"
+  }
 ]
