@@ -465,5 +465,15 @@
     "updates": "biweekly",
     "broadcast": "Friday",
     "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/739822/739822-1533861379317-a7fc2f15d5b5d.jpg"
-  }
+  }, {
+    "name": "React Native Radio",
+    "host": "Nader Dabit",
+    "url": "https://devchat.tv/react-native-radio/",
+    "category": "react-native",
+    "description": "All things about React Native",
+    "languages": "English",
+    "updates": "irregular",
+    "broadcast": "irregular",
+    "logo": "https://devchat.tv/wp-content/uploads/2016/04/react-native-radio-album-art.jpg"
+},
 ]
