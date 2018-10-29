@@ -6,6 +6,10 @@ Let start
 
 #### First things first
 
+Check out these articles on how to make your first PR
+1. [GitHub](https://help.github.com/articles/creating-a-pull-request/)
+2. [Medium](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+
 Check the [existing list](https://hassansani.me/podcast). For inspirations
 
 #### Next
@@ -13,7 +17,7 @@ If an awesome podcast you know is not already on this list, this is how you can 
 
 * `fork` this `repo`
 * `clone` it to you local machine
-* open the [data]() file
+* open the [data](/data/podcasts.json) file
 * Add yours in the format below
 * Send a `pull request` 🎉
 
