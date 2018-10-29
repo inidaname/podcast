@@ -294,8 +294,8 @@
     "description": "An original podcast about the people who transform technology from the command line up. Presented by Red Hat.",
     "languages": "English",
     "updates": "Seasonal",
-    "broadcast": "",
-    "logo": "https://www.redhat.com/cms/managed-files/logo-clh-240x60.png"
+    "broadcast": "Every 2 week",
+    "logo": "https://www.redhat.com/cms/managed-files/thumb-clh-500x500.png"
   },
   {
     "name": "Learn to Code with Me",
