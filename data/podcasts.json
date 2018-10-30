@@ -465,5 +465,15 @@
     "updates": "biweekly",
     "broadcast": "Friday",
     "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/739822/739822-1533861379317-a7fc2f15d5b5d.jpg"
+  },{
+    "name": "AngularAir",
+    "host": "Justin",
+    "url": "https://angularair.com/",
+    "category": "Voice",
+    "description": "AngularAir has a panel of some of the most awesome Angular developers the community has to offer.",
+    "languages": "English",
+    "updates": "biweekly",
+    "broadcast": "Friday",
+    "logo": "https://angularair.com/ng-air-logo-light.png"
   }
 ]
