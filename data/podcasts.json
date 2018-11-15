@@ -487,7 +487,7 @@
     "logo": "https://devchat.tv/wp-content/uploads/2016/04/react-native-radio-album-art.jpg"
   },{
   "name": "JS Party",
-  "host": "Mikeal Rogers, Jarod Santo and more...", 
+  "host": "Mikeal Rogers, Jarod Santo and more...",
   "url": "https://changelog.com/jsparty",
   "category": "JavaScript development",
   "description": "A community celebration of JavaScript and the web",
@@ -495,5 +495,15 @@
   "updates": "weekly",
   "broadcast": "Friday",
    "logo": "https://cdn.changelog.com/uploads/convers/js-party-medium.png?v=63688781367"
-  }
+ },{
+    "name": "Shop Talk Show",
+    "host": "Dave Rupert and Chris Coyier",
+    "url": "https://shoptalkshow.com/",
+    "category": "tech, front-end development, UX",
+    "description": "ShopTalk is a podcast about front end web design, development and UX. Each week Chris Coyier and Dave Rupert are joined by a special guest to talk shop and answer listener submitted questions.",
+    "languages": "English",
+    "updates": "weekly",
+    "broadcast": "mondays",
+    "logo": "https://shoptalkshow.com/wp-content/themes/shoptalk2/images/shoptalk_logo.png"
+},
 ]
