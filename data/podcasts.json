@@ -1,5 +1,16 @@
 [
   {
+    "name": "The Drunken UX Podcast",
+    "host": "Michael Fienen and Aaron Hill",
+    "url": "www.drunkenux.com",
+    "category": "JavaScript, Web Developer, General, talents, Newbie, front end development, web development",
+    "description": "An irreverent show where we drink and talk about building things on the internet.",
+    "languages": "English",
+    "updates": "Every other week",
+    "broadcast": "Mondays",
+    "logo": "https://drunkenux.com/wp-content/uploads/2019/03/cover-2019.jpg"
+  },
+  {
     "name": ".NET Rocks",
     "host": "Carl Franklin and Richard Campbell",
     "url": "www.dotnetrocks.com",
