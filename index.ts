@@ -11,7 +11,7 @@ var gh = new GitHub({
 let broadcast: Array<string>;
 let frequency: Array<string>;
 
-const myRequest = new Request('./data/podcasts.json');
+const myRequest = new Request('/data/podcasts.json');
 
 let categories: Promise<Array<any>> = new Promise((resolve: any, reject:any) => {
     fetch(myRequest)
