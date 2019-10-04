@@ -1,4 +1,10 @@
 "use strict";
+var gh = new GitHub({
+    token: 'b4eff74db53c9f3279ab41df31aafc90a8fdc9cc'
+});
+var podcast = gh.getRepo('inidaname', 'podcast');
+podcast.getContributors();
+console.log(podcast.getCollaborators());
 var broadcast;
 var frequency;
 var myRequest = new Request('./data/podcasts.json');
@@ -110,13 +116,12 @@ categories.then(function (res) {
     var podcastEl = document.createElement('ul');
     podcastEl.classList.add('podcast');
     contents.map(function (v, i) {
-        var mainURL = (v.url !== undefined && v.url.substring(0, 5) !== 'http') ? "http://" + v.url : v.url;
+        var mainURL = (v.url !== undefined && v.url.substring(0, 4) !== 'http') ? "http://" + v.url : v.url;
         var listBe = "\n        <a href=\"" + mainURL + "\" target=\"_blank\">\n            <li class=\"podList\">\n                <div>\n                    <h3> " + v.name + " </h3>\n                    <img src=\"" + v.logo + "\" alt=\"" + v.name + "\">\n                    <ul>\n                        <li>\n                            <strong>Host Name:</strong> <br> " + v.host + "\n                        </li>\n                        <li>\n                            <strong>Description:</strong> <br> " + v.description + "\n                        </li>\n                        <li>\n                            <span><strong>Updates:</strong>" + v.updates + "</span>\n                             <span><strong>Release:</strong>\n                             " + v.broadcast + "</span>\n                        </li>\n                        <li>\n                            <strong>Category:</strong> <br> " + v.category + "\n                        </li>\n                        <li>\n                            <strong>Language:</strong> <br> " + v.languages + "\n                        </li>\n                    </ul>\n                </div>\n            </li>\n        </a>\n        ";
         return podcastEl.append(document.createRange().createContextualFragment(listBe));
     }).join(' ');
     var mainList = document.getElementById('mainList');
     mainList.appendChild(podcastEl);
-    console.log(contents);
 })
     .catch(function (reason) {
     console.log(reason);
@@ -128,40 +133,31 @@ listMenu.forEach(function (el) {
     el.addEventListener('click', function (ev) {
         listMenu.forEach(function (e) {
             if (e.getAttribute('id') !== ev.target.attributes.getNamedItem('id').value) {
+                e.style.opacity = '0';
                 e.children[0].style.opacity = '0';
                 e.children[0].style.height = '0px';
+                e.children[0].style.overFlow = 'none';
                 e.classList.remove('checkMe');
             }
             else {
                 if (e.classList.contains('checkMe')) {
                     e.classList.remove('checkMe');
+                    el.style.opacity = '1';
                     e.children[0].style.opacity = '0';
+                    e.children[0].style.overFlow = 'none';
                     e.children[0].style.height = '0px';
                 }
                 else {
                     e.classList.add('checkMe');
+                    e.style.opacity = '1';
                     e.children[0].style.opacity = '1';
                     e.children[0].style.height = '400px';
+                    e.children[0].style.overFlow = 'block';
                 }
             }
         });
     });
 });
 function openNav() {
-    if (!document.body.classList.contains('menuMoved')) {
-        document.body.classList.add('menuMoved');
-        var sideBar = document.getElementById('sideBar');
-        sideBar.style.width = "300px";
-        var main = document.getElementById('main');
-        main.style.marginLeft = "300px";
-        main.style.width = "calc(100% - 300px)";
-    }
-    else {
-        var sideBar = document.getElementById('sideBar');
-        sideBar.style.width = "0px";
-        var main = document.getElementById('main');
-        main.style.marginLeft = "0px";
-        main.style.width = "100%";
-        document.body.classList.remove('menuMoved');
-    }
+    console.log();
 }
