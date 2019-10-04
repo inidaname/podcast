@@ -376,6 +376,51 @@
     "logo": "http://static.megaphone.fm/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1521732699052-l46bxmk0qkc-071bfd4afd80223fcb2b944c07c0f97e_2Fsysk-audio-1600.jpg"
   },
     {
+
+          "name": "The CyberWire",
+          "host": "John Petrik",
+          "url": "thecyberwire.com/podcasts",
+          "category": "Cybersecurity, Security, Internet,",
+          "description": "The CyberWire podcasts are our look at what's happening in cyberspace. It provides clear and concise summaries of the news and offers commentary from industry experts as well as our partners.",
+          "languages": "English",
+          "updates": "Daily",
+          "broadcast": "Week days",
+          "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
+      },
+	  {
+  		  "name": "Hipsters",
+  		  "host": "Paulo Silveira, Maurício 'Balboa' Linhares and Roberta Arcoverde",
+  		  "url": "www.hipsters.tech",
+  		  "category": "general, dev, security, startup, scrum",
+  		  "description": "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.",
+  		  "languages": "Portuguese",
+  		  "updates": "weekly",
+  		  "broadcast": "tuesday"
+  		  "logo": "https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg"
+	  },
+    {
+        "name": "Talk Python to Me",
+        "host": "Michael Kennedy",
+        "url": "https://talkpython.fm/",
+        "category": "Python, Software Development",
+        "description": "Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).",
+        "languages": "English",
+        "updates": "Weekly",
+        "broadcast": "Week days",
+        "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
+    },
+	{
+        "name": "Castálio Podcast",
+        "host": "Elyézer e Bruno",
+        "url": "https://castalio.info/",
+        "category": "general, dev, security, startup, scrum, tecnology",
+        "description": "O Castálio é um podcast publicado quinzenalmente. Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source! A maioria dos episódios são em português mas eventualmente trazemos alguns em inglês",
+        "languages": "Portuguese",
+        "updates": "Biweekly",
+        "broadcast": "Week days",
+        "logo": "https://castalio.info/images/castalio-podcast.png"
+    },
+  {
       "name"        : "forLoopPod",
       "host"        : "ForLoop Africa",
       "url"         : "https://podcast.forloop.africa/",
@@ -517,4 +562,5 @@
     "broadcast": "mondays",
     "logo": "https://shoptalkshow.com/wp-content/themes/shoptalk2/images/shoptalk_logo.png"
 }
+
 ]
