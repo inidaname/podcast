@@ -141,5 +141,16 @@
         "updates": "Weekly",
         "broadcast": "Week days",
         "logo": "https://talkpython.fm/static/img/talk_python_logo_mic.png"
+    },
+	{
+        "name": "Castálio Podcast",
+        "host": "Elyézer e Bruno",
+        "url": "hhttps://castalio.info/",
+        "category": "general, dev, security, startup, scrum, tecnology",
+        "description": "O Castálio é um podcast publicado quinzenalmente. Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source! A maioria dos episódios são em português mas eventualmente trazemos alguns em inglês",
+        "languages": "Portuguese",
+        "updates": "Biweekly",
+        "broadcast": "Week days",
+        "logo": "https://castalio.info/images/castalio-podcast.png"
     }
 ]
