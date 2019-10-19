@@ -561,6 +561,16 @@
     "updates": "weekly",
     "broadcast": "mondays",
     "logo": "https://shoptalkshow.com/wp-content/themes/shoptalk2/images/shoptalk_logo.png"
+},{
+    "name": "TED Talks Daily",
+    "host": "TED",
+    "url": "https://www.ted.com/about/programs-initiatives/ted-talks/ted-talks-audio",
+    "category": "ideas, general, stories",
+    "description": "Every weekday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable -- from Artificial Intelligence to Zoology, and everything in between -- given by the world's leading thinkers and doers.",
+    "languages": "English",
+    "updates": "daily",
+    "broadcast": "week days",
+    "logo": "https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/005/187/original/TED_Talks_Podcast_Thumbnail_Audio_600px.png?w=320"
 }
 
 ]
