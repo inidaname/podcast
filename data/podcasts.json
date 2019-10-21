@@ -318,8 +318,17 @@
     "updates": "Weekly, Seasonal",
     "broadcast": "Tuesday",
     "logo": "https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/themes/remixx/images/logo.svg"
-  },
-  {
+  },{
+    "name": "Insanely Chill",
+    "host": "Cody Ko",
+    "url": "http://insanelychillpodcast.com/",
+    "category": "comedy, interesting",
+    "description": "A podcast with guest with funny topics",
+    "languages": "English",
+    "updates": "bi weekly",
+    "broadcast": "fridays",
+    "logo": "http://insanelychillpodcast.com/images/podcast_logo_website.png"
+  },{
     "name": "Myths & Legends",
     "host": "Jason",
     "url": "https://www.mythpodcast.com/",
@@ -562,6 +571,15 @@
     "broadcast": "mondays",
     "logo": "https://shoptalkshow.com/wp-content/themes/shoptalk2/images/shoptalk_logo.png"
 },{
+    "name": "TED Talks Daily",
+    "host": "TED",
+    "url": "https://www.ted.com/about/programs-initiatives/ted-talks/ted-talks-audio",
+    "category": "ideas, general, stories",
+    "description": "Every weekday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable -- from Artificial Intelligence to Zoology, and everything in between -- given by the world's leading thinkers and doers.",
+    "updates": "daily",
+    "broadcast": "week days",
+    "logo": "https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/005/187/original/TED_Talks_Podcast_Thumbnail_Audio_600px.png?w=320"
+},{
     "name": "Hackable?",
     "host": "Justin",
     "url": "https://hackablepodcast.com/",
@@ -572,5 +590,4 @@
     "broadcast": "irregular",
     "logo": "https://res.cloudinary.com/response-mktg/image/upload/v1490973629/hackable-podcast/icons/apple-icon-57x57.png"
   }
-
 ]
