@@ -318,8 +318,7 @@
     "updates": "Weekly, Seasonal",
     "broadcast": "Tuesday",
     "logo": "https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/themes/remixx/images/logo.svg"
-  },
-    {
+  },{
     "name": "Insanely Chill",
     "host": "Cody Ko",
     "url": "http://insanelychillpodcast.com/",
@@ -329,8 +328,7 @@
     "updates": "bi weekly",
     "broadcast": "fridays",
     "logo": "http://insanelychillpodcast.com/images/podcast_logo_website.png"
-    },
-  {
+  },{
     "name": "Myths & Legends",
     "host": "Jason",
     "url": "https://www.mythpodcast.com/",
@@ -592,6 +590,15 @@
     "updates": "daily",
     "broadcast": "week days",
     "logo": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/87/3e/36/873e367e-f347-e671-8aa4-ef53fcbc5856/mza_5515857579240649757.png/313x0w.jpg"
-}
-
+},{
+    "name": "Hackable?",
+    "host": "Justin",
+    "url": "https://hackablepodcast.com/",
+    "category": "Security",
+    "description": "Curious about how cybercriminals get all of your information? 'Hackable?' gets into the mind of a hacker to see how easy it is to crack into Wi-Fi, cars, webcams, and more.",
+    "languages": "English",
+    "updates": "irregular",
+    "broadcast": "irregular",
+    "logo": "https://res.cloudinary.com/response-mktg/image/upload/v1490973629/hackable-podcast/icons/apple-icon-57x57.png"
+  }
 ]
