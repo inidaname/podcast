@@ -576,9 +576,20 @@
     "url": "https://www.ted.com/about/programs-initiatives/ted-talks/ted-talks-audio",
     "category": "ideas, general, stories",
     "description": "Every weekday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable -- from Artificial Intelligence to Zoology, and everything in between -- given by the world's leading thinkers and doers.",
+    "languages": "English",
     "updates": "daily",
     "broadcast": "week days",
     "logo": "https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/005/187/original/TED_Talks_Podcast_Thumbnail_Audio_600px.png?w=320"
+},{
+    "name": "Co-optional",
+    "host": "Genna Bain, Brooke Thorne and Jesse Cox",
+    "url": "https://player.fm/series/the-co-optional-podcast-56662",
+    "category": "tech, video games",
+    "description": "An irreverent gaming show hosted by Genna Bain, Brooke Thorne and Jesse Cox. Here you will also find the late John “TotalBiscuit” Bain’s audio content.",
+    "languages": "English",
+    "updates": "daily",
+    "broadcast": "week days",
+    "logo": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/87/3e/36/873e367e-f347-e671-8aa4-ef53fcbc5856/mza_5515857579240649757.png/313x0w.jpg"
 },{
     "name": "Hackable?",
     "host": "Justin",
