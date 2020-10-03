@@ -600,5 +600,15 @@
     "updates": "irregular",
     "broadcast": "irregular",
     "logo": "https://res.cloudinary.com/response-mktg/image/upload/v1490973629/hackable-podcast/icons/apple-icon-57x57.png"
+  },{
+    "name": "Inside Java",
+    "host": "Java team at Oracle",
+    "url": "https://inside.java/podcast",
+    "category": "Java",
+    "description": "Inside Java is a podcast for Java Developers brought to you directly from the people that make Java at Oracle. We'll discuss the language, the JVM, OpenJDK, platform security, innovation projects like Loom and Panama, and everything in between!",
+    "languages": "English",
+    "updates": "irregular",
+    "broadcast": "irregular",
+    "logo": "https://inside.java/images/InsideJavaPodcast1000.png"
   }
 ]
