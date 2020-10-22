@@ -600,5 +600,15 @@
     "updates": "irregular",
     "broadcast": "irregular",
     "logo": "https://res.cloudinary.com/response-mktg/image/upload/v1490973629/hackable-podcast/icons/apple-icon-57x57.png"
+},{
+    "name": "QuebraDev",
+    "host": "Gustavo Castilião, Kaio Teixeira and more...",
+    "url": "https://quebradev.com.br/sobre/",
+    "category": "Tech, Career, Suburban representativeness",
+    "description": "The podcast of suburban origin that appeared with the objective of representing us in the area of ​​technology",
+    "languages": "Portuguese",
+    "updates": "irregular",
+    "broadcast": "irregular",
+    "logo": "https://quebradev.com.br/images/logo.png"
   }
 ]
