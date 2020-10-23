@@ -1,5 +1,16 @@
 [
   {
+    "name": "Laravel Portugal Live",
+    "host": "Caneco",
+    "url": "www.laravel.pt",
+    "category": "Laravel, PHP, Web Developer, General, talents, Newbie, front end development, backend development, web development",
+    "description": "Laravel Portugal members get together to talk about Laravel, PHP, the Portuguese community, ideas and more.",
+    "languages": "Portuguese",
+    "updates": "Every other week",
+    "broadcast": "Fridays",
+    "logo": "https://image.simplecastcdn.com/images/b4873f13-5668-45a7-834c-497d5cf3b209/ac2a9eb4-4a96-4fa0-a911-1b69abef3493/480x480/laravel-portugal-new-logo.jpg"
+  },
+  {
     "name": "The Drunken UX Podcast",
     "host": "Michael Fienen and Aaron Hill",
     "url": "www.drunkenux.com",
