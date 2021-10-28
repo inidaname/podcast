@@ -1,5 +1,16 @@
 [
   {
+    "name": "Laravel Portugal Live",
+    "host": "Caneco",
+    "url": "www.laravel.pt",
+    "category": "Laravel, PHP, Web Developer, General, talents, Newbie, front end development, backend development, web development",
+    "description": "Laravel Portugal members get together to talk about Laravel, PHP, the Portuguese community, ideas and more.",
+    "languages": "Portuguese",
+    "updates": "Every other week",
+    "broadcast": "Fridays",
+    "logo": "https://image.simplecastcdn.com/images/b4873f13-5668-45a7-834c-497d5cf3b209/ac2a9eb4-4a96-4fa0-a911-1b69abef3493/480x480/laravel-portugal-new-logo.jpg"
+  },
+  {
     "name": "The Drunken UX Podcast",
     "host": "Michael Fienen and Aaron Hill",
     "url": "www.drunkenux.com",
@@ -625,5 +636,15 @@
     "updates": "Every other week",
     "broadcast": "irregular",
     "logo": "https://youknow.st/static/logo-16bf6b9b40e556f92ecfafbb5067d08c.svg"
-  }
+  },{  
+  "name": "Podcast FalaDev",
+  "host": "Diego Fernandes",
+  "url": "https://anchor.fm/faladev",
+  "category": "Tech, Education, Dev",
+  "description": "A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Nesse podcast três programadores se reúnem para discutir o universo da programação.",
+  "languages": "Portuguese",
+  "updates": "irregular",
+  "broadcast": "irregular",
+  "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/528611/528611-1602707574568-19b199d9f1acb.jpg"
+}
 ]
