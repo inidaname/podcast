@@ -611,5 +611,15 @@
     "updates": "irregular",
     "broadcast": "irregular",
     "logo": "https://res.cloudinary.com/response-mktg/image/upload/v1490973629/hackable-podcast/icons/apple-icon-57x57.png"
-  }
+},{  
+  "name": "Podcast FalaDev",
+  "host": "Diego Fernandes",
+  "url": "https://anchor.fm/faladev",
+  "category": "Tech, Education, Dev",
+  "description": "A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Nesse podcast três programadores se reúnem para discutir o universo da programação.",
+  "languages": "Portuguese",
+  "updates": "irregular",
+  "broadcast": "irregular",
+  "logo": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/528611/528611-1602707574568-19b199d9f1acb.jpg"
+}
 ]
